@@ -101,6 +101,7 @@ This is a auto push repository for Baekjoon & Programmers & LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0118-pascals-triangle) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -116,4 +117,12 @@ This is a auto push repository for Baekjoon & Programmers & LeetCode
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
