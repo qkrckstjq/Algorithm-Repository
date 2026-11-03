@@ -104,6 +104,7 @@ This is a auto push repository for Baekjoon & Programmers & LeetCode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This is a auto push repository for Baekjoon & Programmers & LeetCode
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
