@@ -102,6 +102,7 @@ This is a auto push repository for Baekjoon & Programmers & LeetCode
 | [0001-two-sum](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0118-pascals-triangle) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -127,4 +128,13 @@ This is a auto push repository for Baekjoon & Programmers & LeetCode
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
