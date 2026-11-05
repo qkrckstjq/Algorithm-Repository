@@ -6,17 +6,38 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 
 ### math
 
@@ -30,6 +51,7 @@
 |---|---------|------------|----------|
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Python 3](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/A%20-%20Square%3F/solution.py) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Python 3](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/B%20-%20Your%20Name/solution.py) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 
 ### strings
 
