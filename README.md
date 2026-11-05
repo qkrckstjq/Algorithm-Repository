@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [math](#math) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -28,6 +29,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Python 3](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/A%20-%20Square%3F/solution.py) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Python 3](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/B%20-%20Your%20Name/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Python 3](https://github.com/qkrckstjq/Algorithm-Repository/blob/HEAD/2167/B%20-%20Your%20Name/solution.py) |
 
 ---
 
