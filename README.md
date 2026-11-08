@@ -68,9 +68,30 @@
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1882-process-tasks-using-servers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1882-process-tasks-using-servers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
