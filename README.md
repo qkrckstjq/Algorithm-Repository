@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0002-add-two-numbers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3693-climbing-stairs-ii) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
