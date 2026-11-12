@@ -9,9 +9,11 @@ class Solution:
                 if result:
                     result.pop()
             elif c == "#":
-                if result:
-                    for cp in result.copy():
-                        result.append(cp)
+                # if result:
+                #     for cp in result.copy():
+                #         result.append(cp)
+                # result = result[::-1]
+                result += result
             elif c == "%":
                 result.reverse()
             else:
