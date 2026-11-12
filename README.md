@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3612-process-string-with-special-operations-i](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3612-process-string-with-special-operations-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
