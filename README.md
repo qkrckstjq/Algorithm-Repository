@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0004-median-of-two-sorted-arrays) |
 | [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1882-process-tasks-using-servers) |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3612-process-string-with-special-operations-i) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
