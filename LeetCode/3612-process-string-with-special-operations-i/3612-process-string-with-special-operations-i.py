@@ -15,7 +15,7 @@ class Solution:
                 # result = result[::-1]
                 result += result
             elif c == "%":
-                result.reverse()
+                result = result[::-1]
             else:
                 result.append(c)
             
