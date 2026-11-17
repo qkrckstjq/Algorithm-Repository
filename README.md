@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0004-median-of-two-sorted-arrays) |
 | [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
