@@ -73,6 +73,7 @@
 | [1267-count-servers-that-communicate](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
@@ -130,6 +131,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/qkrckstjq/Baejoon-ProgrammersRepository/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
